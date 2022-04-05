@@ -17,7 +17,7 @@ $ npm i
 Running the project...
 
 ```sh
-$ node start
+$ npm start
 ```
 Verify the deployment by navigating to your server address in your preferred browser.
 
